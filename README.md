@@ -15,6 +15,6 @@ Two ways to use!
 
 OR
 
-Save the implementation inside `LLImpl.py` and name the `Puzzle` object puzzle, and then `python solve.py` from the command line will solve it.
+`python ui.py` from the command line
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/.
